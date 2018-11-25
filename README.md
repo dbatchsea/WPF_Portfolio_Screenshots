@@ -7,3 +7,6 @@ Animation
 ![](images/MiningApp.gif)
 
 ![](images/UI_Beer.png)
+
+Path Animation
+![](images/PathAnimation.gif)
