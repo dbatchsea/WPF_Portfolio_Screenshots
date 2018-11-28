@@ -3,7 +3,7 @@ Screenshots of various WPF content I've created
 
 ![](images/WPF_Tree_Window.PNG)
 
-Behaviors (follow the link to a video demo, hosted on YouTube)
+Behaviors (click on screenshot to follow a link to a video demo, hosted on YouTube)
 [![](images/MiningApp.gif)](https://youtu.be/ld6jlLZiGIE)
 
 
@@ -13,5 +13,5 @@ Path Animation
 ![](images/PathAnimation.gif)
 
 
-3D Application (follow the link to a video demo, hosted on YouTube)
+3D Application (click on screenshot to follow a link to a video demo, hosted on YouTube)
 [![Short Demo](images/3DApp_Screenshot.jpg)](https://youtu.be/GEKuQzlm6gY)
