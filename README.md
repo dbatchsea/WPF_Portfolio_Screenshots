@@ -3,8 +3,9 @@ Screenshots of various WPF content I've created
 
 ![](images/WPF_Tree_Window.PNG)
 
-Behaviors
-![](images/MiningApp.gif)
+Behaviors (follow the link to a video demo, hosted on YouTube)
+[![](images/MiningApp.gif)](https://youtu.be/ld6jlLZiGIE)
+
 
 ![](images/UI_Beer.png)
 
