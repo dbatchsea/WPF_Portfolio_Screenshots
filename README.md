@@ -12,5 +12,5 @@ Path Animation
 ![](images/PathAnimation.gif)
 
 
-3D Application (video demo hosted on YouTube)
+3D Application (follow the link to a video demo, hosted on YouTube)
 [![Short Demo](images/3DApp_Screenshot.jpg)](https://youtu.be/GEKuQzlm6gY)
