@@ -13,4 +13,4 @@ Path Animation
 
 
 3D Application (video demo hosted on YouTube)
-[![Short Demo](https://i9.ytimg.com/vi/GEKuQzlm6gY/mq3.jpg?sqp=CJTd7d8F&rs=AOn4CLCt6GBbnH0V7uY0VDqaZkgFOouG4Q)](https://youtu.be/GEKuQzlm6gY)
+[![Short Demo]()](https://youtu.be/GEKuQzlm6gY)
