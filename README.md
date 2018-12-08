@@ -4,7 +4,7 @@ Screenshots of various WPF content I've created
 ![](images/WPF_Tree_Window.PNG)
 
 Behaviors (click on screenshot to follow a link to a video demo, hosted on YouTube)
-[![](images/MiningApp.gif)](https://youtu.be/T8yHJOs3iSA)
+[![](images/MiningApp.gif)](https://youtu.be/kTmUGMvyAnY)
 
 
 ![](images/UI_Beer.png)
