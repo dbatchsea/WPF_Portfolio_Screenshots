@@ -3,7 +3,7 @@ Screenshots of various WPF content I've created
 
 ![](images/WPF_Tree_Window.PNG)
 
-Behaviors, triggers, MahApps Metro (click on screenshot to follow a link to a video demo, hosted on YouTube)
+Behaviors, triggers, Prism, MahApps Metro (click on screenshot to follow a link to a video demo, hosted on YouTube)
 [![](images/MiningExplorer.gif)](https://youtu.be/kTmUGMvyAnY)
 
 
