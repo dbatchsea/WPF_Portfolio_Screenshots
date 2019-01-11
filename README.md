@@ -18,4 +18,4 @@ Path Animation
 
 
 Work-In-Progress
-![](images/OverclockedWorkInProgress.png)
+![](images/CoffeeAppWorkInProgress.png)
