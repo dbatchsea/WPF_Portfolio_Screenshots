@@ -1,13 +1,14 @@
 # WPF_Portfolio_Screenshots
 Screenshots of various WPF content I've created
 
-![](images/WPF_Tree_Window.PNG)
+![](images/CoffeeApp.png)
+
+![](images/UI_Beer.png)
 
 Behaviors, triggers, Prism, MahApps Metro (click on screenshot to follow a link to a video demo, hosted on YouTube)
 [![](images/MiningExplorer.gif)](https://youtu.be/kTmUGMvyAnY)
 
-
-![](images/UI_Beer.png)
+![](images/WPF_Tree_Window.PNG)
 
 Path Animation
 ![](images/PathAnimation.gif)
@@ -17,5 +18,4 @@ Path Animation
 [![Short Demo](images/3DCapture.png)](https://youtu.be/rsoL6iBBl_o)
 
 
-Work-In-Progress
-![](images/CoffeeAppWorkInProgress.png)
+
