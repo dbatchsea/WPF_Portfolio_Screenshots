@@ -14,7 +14,7 @@ Behaviors, triggers, Prism, MahApps Metro (click on screenshot to follow a link 
 Path Animation
 ![](images/PathAnimation.gif)
 
-Custom transparent window border, background animation
+Custom transparent window border, background animation (click on screenshot to follow a link to a video demo, hosted on YouTube)
 [![](images/TreeWindow.gif)](https://youtu.be/kmXG7Ddm_KY)
 
 Custom transparent window border
