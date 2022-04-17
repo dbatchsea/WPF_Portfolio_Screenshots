@@ -14,6 +14,9 @@ Behaviors, triggers, Prism, MahApps Metro (click on screenshot to follow a link 
 Path Animation
 ![](images/PathAnimation.gif)
 
+Custom transparent window border, background animation
+[![](images/TreeWindow.gif)](https://youtu.be/kmXG7Ddm_KY)
+
 Custom transparent window border
 ![](images/WPF_Tree_Window.PNG)
 
