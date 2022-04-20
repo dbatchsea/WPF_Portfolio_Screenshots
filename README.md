@@ -1,7 +1,7 @@
 # WPF_Portfolio_Screenshots
 Screenshots of various WPF content I've created
 
-This app contains background materials created by using Substance Designer, as well as an implementation of a treemap control.
+This app contains background materials created by using Substance Designer, as well as an implementation of a treemap control, and custom Windows application title bar.
 ![](images/LilBanditTalentSearch.png)
 
 ![](images/CoffeeApp.png)
